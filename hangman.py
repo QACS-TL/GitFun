@@ -4,6 +4,7 @@ import random
 words = ["hangman", "python", "game", "programming", "openai"]
 # comment
 # Hangman graphics
+# woo hoo
 hangman_graphics = [
     '''
      +---+
