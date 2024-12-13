@@ -3,6 +3,7 @@ import random
 # List of words for the game
 words = ["hangman", "python", "game", "programming", "openai"]
 # comment
+print("sytuff")
 # Hangman graphics
 hangman_graphics = [
     '''
