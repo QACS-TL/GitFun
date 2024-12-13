@@ -5,7 +5,7 @@ words = ["hangman", "python", "game", "programming", "openai"]
 # comment
 print("stuff")
 # Hangman graphics
-# woo hoo XXX
+# woo hoo QQQ
 hangman_graphics = [
     '''
      +---+
